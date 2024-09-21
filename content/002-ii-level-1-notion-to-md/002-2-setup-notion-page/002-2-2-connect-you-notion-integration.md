@@ -10,9 +10,9 @@ Each published Notion page needs to be connected to your Notion integration to a
 Follow the steps here: **Search for connections**, type in your Notion integration’s name, select it, and click **Confirm**.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/9-549426-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/9-785912-image.png)
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/9-776905-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/9-885345-image.png)
 
 
