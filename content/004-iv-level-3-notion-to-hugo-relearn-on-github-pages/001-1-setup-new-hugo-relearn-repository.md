@@ -13,12 +13,12 @@ Alternatively, you can use [my premade skeleton-aws-workshop repository](https:/
 In this part, I’ll use [**GitHub import**](https://github.com/new/import)[ on that repo](https://github.com/new/import) to import into my [new Notion To Markdown repository](https://github.com/heo001997/aws-workshop-notion-to-md).
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/16-960812-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/16-519217-image.png)
 
 
 It’s done now. You can update your README and About sections if you want.
 
 
-![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/16-811099-image.png)
+![image.png](/images/004-iv-level-3-notion-to-hugo-relearn-on-github-pages/16-303746-image.png)
 
 

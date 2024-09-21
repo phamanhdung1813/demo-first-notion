@@ -10,12 +10,12 @@ Our tool needs your Notion `page_id`, which can be obtained either from Notion�
 We’ll follow the simpler solution: Publish your Notion page (Share → Publish site → Publish) to get Published Page’s URL.
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-930128-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-886782-image.png)
 
 
 And now we have our Published Page’s URL
 
 
-![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-442112-image.png)
+![image.png](/images/002-ii-level-1-notion-to-md/002-2-setup-notion-page/8-104085-image.png)
 
 
